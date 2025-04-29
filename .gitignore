@@ -1,0 +1,8 @@
+*.env
+*\venv
+*.wav
+*.json
+
+*\__pycache__
+*.DS_Store
+temp.py
